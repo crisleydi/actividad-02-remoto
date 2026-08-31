@@ -1,3 +1,10 @@
+tecnologías que conozco 
 Git
-Git Bash
 GitHub
+visual studio code
+
+
+Tecnologias que deseo aprender:
+- Docker
+- Python
+- React
