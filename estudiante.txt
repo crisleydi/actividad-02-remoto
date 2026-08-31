@@ -5,8 +5,4 @@ Materia: Actualización Tecnológica
 Ciudad: Oruro
 Correo electrónico: crisleydi.lopez@sistemas.edu.bo
 Número de teléfono: 67262272
-<<<<<<< HEAD
 Descripción académica: Estudiante de Ingeniería de Sistemas interesada en aprender y mejorar sus conocimientos en tecnologías y herramientas informáticas.
-=======
-Descripción académica: Estudiante de Ingeniería de Sistemas interesada en fortalecer sus conocimientos en tecnología, programación y desarrollo de software.
->>>>>>> actualizacion-personal
